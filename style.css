@@ -3,4 +3,24 @@
 body {
      color:aqua;
      background: black;
+     margin: 0px;
+}
+
+header{
+     border-bottom: solid 2xp white;
+     padding: 20px;
+     font-size: 32px;
+     color: rgb(1,156,213);
+}
+
+section{
+     background: rgb(1,156,213);
+     padding-bottom: 80px;
+     padding-top: 80px;
+     display: flex;
+     justify-content: center;
+}
+
+.chamada-texto{
+   margin-right:  5%;
 }
